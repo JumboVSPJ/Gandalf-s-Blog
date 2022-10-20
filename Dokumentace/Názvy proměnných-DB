@@ -1,0 +1,14 @@
+
+Přihlášení pomocí: Login / e-mail
+
+
+Ragistrace bez role, ta bude následně přidána ... (adminem)
+
+
+Heslo bude Heshované
+-----------------------------------------------
+Login : login  //PRIMARY KEY
+Heslo: heslo    //NOT NULL
+E-mail: email   //UNIQUE
+
+Role: role      
