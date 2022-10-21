@@ -7,9 +7,9 @@ Ragistrace bez role, ta bude následně přidána ... (adminem)
 
 Heslo bude Heshované
 -----------------------------------------------
-jméno tabulky: 
+jméno tabulky: prihlas_db 
 
-Login : login  //PRIMARY KEY
+Login: login  //PRIMARY KEY
 Heslo: heslo    //NOT NULL
 E-mail: email   //UNIQUE
 
