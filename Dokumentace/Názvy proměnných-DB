@@ -9,7 +9,7 @@ Heslo bude Heshované
 -----------------------------------------------
 jméno tabulky: prihlas_db 
         nazev v SQL za :
-Login: login  //PRIMARY KEY
+Login: user_name  //PRIMARY KEY
 Heslo: heslo  //NOT NULL
 Jméno: jmeno  //NOT NULL
 Přijmení: prijmeni  //NOT NULL
