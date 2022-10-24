@@ -8,10 +8,10 @@ Ragistrace bez role, ta bude následně přidána ... (adminem)
 Heslo bude Heshované
 -----------------------------------------------
 jméno tabulky: prihlas_db 
-
+        nazev v SQL za :
 Login: login  //PRIMARY KEY
-Heslo: heslo    
-Jméno: jmeno
-Přijmení: prijmeni
-Role: role      
+Heslo: heslo  //NOT NULL
+Jméno: jmeno  //NOT NULL
+Přijmení: prijmeni  //NOT NULL
+Role: role  //NULL      
 
