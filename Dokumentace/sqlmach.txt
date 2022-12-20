@@ -1,0 +1,9 @@
+šefredaktor
+-------------
+SELECT * FROM `Gcasopis_main`  
+
+
+změna údajů
+-------------
+UPDATE `prihlas_db` SET `user_name`='$nUsern',`jmeno`='$nJmeno',`prijmeni`='$nPrijmeni',`heslo`='$nHeslo' WHERE `user_name`='$user_name'
+
